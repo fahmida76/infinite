@@ -1,0 +1,147 @@
+@media(max-width:1200px){
+
+}
+@media(max-width:1199px){
+    
+}
+@media(max-width:991px){
+    
+}
+@media(max-width:768px){
+    .step2 {
+        height: 65px;
+        width: 48px;
+        background-color: red;
+        font-weight: 700;
+        color: #fff;
+        text-align: center;
+        position: absolute;
+        top: 110%;
+        left: 103%;
+        transform: translate(-110%,-103%);
+        border: 2px solid #fff;
+        font-size: 11px;
+    } 
+    .step2 h1{
+        font-size: 26px;
+    } 
+    .step {
+        height: 65px;
+        width: 46px;
+        background-color: red;
+        font-weight: 700;
+        color: #fff;
+        text-align: center;
+        position: absolute;
+        left: -2%;
+        top: -17%;
+        transform: translate(2%, 17%);
+        border: 2px solid #fff;
+        font-size: 11px;
+    }
+    .step h1{
+        font-size: 26px;
+    }
+    .paper-content h3{
+        font-size: 20px;
+    }
+    .paper-content i{
+        font-size: 20px;
+    }
+    .paper-content p{
+        font-size: 14px;
+    }
+    .card-body span{
+    right:  38%;
+    top: -10%;
+    display: inline-block;
+
+    }
+    footer p{
+        font-size: 12px;
+    }
+   
+}
+
+@media(max-width:425px){
+    .consultion h1{
+        font-size: 22px;
+    }
+    .consultion h5{
+        font-size: 12px;
+    }
+    .btn-learn {
+       
+       padding: 10px 17px;
+        border-radius: 5px;
+        font-size: 14px;
+    }
+
+    .step2 {
+        height: 65px;
+        width: 48px;
+        background-color: red;
+        font-weight: 700;
+        color: #fff;
+        text-align: center;
+        position: absolute;
+        top: 110%;
+        left: 103%;
+        transform: translate(-110%,-103%);
+        border: 2px solid #fff;
+        font-size: 11px;
+    } 
+    .step2 h1{
+        font-size: 26px;
+    } 
+    .step {
+        height: 65px;
+        width: 46px;
+        background-color: red;
+        font-weight: 700;
+        color: #fff;
+        text-align: center;
+        position: absolute;
+        left: -2%;
+        top: -17%;
+        transform: translate(2%, 17%);
+        border: 2px solid #fff;
+        font-size: 11px;
+    }
+    .step h1{
+        font-size: 26px;
+    }
+    .step-content h3{
+        font-size: 16px;
+        font-weight: 700;
+        margin-top: 15px;
+    }
+    .step-content p{
+        font-size: 12px;
+        
+    }
+    .paper-content h3{
+        font-size: 20px;
+    }
+    .paper-content i{
+        font-size: 20px;
+    }
+    .paper-content p{
+        font-size: 14px;
+    }
+    .card-body span{
+        right: 27%;
+       top: -8%;
+       display: inline-block;
+    }
+   
+}
+@media(max-width:375px){
+    .paper-content h3{
+        font-size: 14px;
+    }
+   
+    .paper-content p{
+        font-size: 12px;
+    }
+}
